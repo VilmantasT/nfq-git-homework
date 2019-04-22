@@ -1,1 +1,2 @@
 feature1 text
+feature1 text2
